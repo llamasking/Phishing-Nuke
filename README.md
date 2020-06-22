@@ -1,8 +1,6 @@
 # Phishing Nuke
  
-An upgraded script based off nitsuga5124's version, designed to taint a phishing scam's data to a point of having to toss large amounts of it.
-
-Go pay nitsuga5124 some love on his GitLab. https://gitlab.com/nitsuga5124
+An upgraded script based off [nitsuga5124](https://gitlab.com/nitsuga5124)'s version, designed to taint a phishing scam's data to a point of having to toss large amounts of it.
 
 ## Usage
 I'll admit, it's not super easy to use, but I kinda tried. 
